@@ -415,17 +415,11 @@ This system is built on the foundation of evidence-based clinical guidelines dev
 - World Health Organization (WHO)
 - South African HIV Clinicians Society
 
----
 
-## Contact and Feedback
-
-For questions about this implementation or suggestions for enhancement, please provide feedback through the assessment review process.
-
----
 
 **Thank you for reviewing this submission. I look forward to discussing the system in detail during the interview.**
 
----
+
 
 *Developed as part of the Healthcare AI Assessment*  
 *November 2025*
