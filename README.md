@@ -220,7 +220,7 @@ The system recognizes the bidirectional relationship between HIV and mental heal
 
 ---
 
-## 📞 Key Contact Information
+##  Key Contact Information
 
 **National Resources:**
 - National AIDS Helpline: **0800 012 322**
